@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm BlackPearl</h1>
+<h1 align="center">Hi 👋, I'm Abhishek Shivale</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsabhishekshivale&label=Profile%20views&color=0e75b6&style=flat" alt="itsabhishekshivale" /> </p>
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **php,js,mysql**
 
-- 📫 How to reach me **abhishekshivale21@gmail.com**
+- 📫 How to reach me **abhishekshivale45@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
