@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsabhishekshivale&label=Profile%20views&color=0e75b6&style=flat" alt="itsabhishekshivale" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsabhishekshivale" alt="itsabhishekshivale" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CommitToDev" alt="CommitToDev" /></a> </p>
 
 - 🔭 I’m currently working on [Anime Streaming Site](https://boxanime.co/)
 
